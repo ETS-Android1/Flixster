@@ -41,6 +41,7 @@ public class MovieDetailsActivity extends YouTubeBaseActivity {
         tvTitle = findViewById(R.id.tvTitle);
         tvOverview = findViewById(R.id.tvOverview);
         rbVoteAverage = findViewById(R.id.rbVoteAverage);
+        Log.d("MovieDetailsActivity", "rating: "+(float) (movie.getVoteAverage()));
 
         tvTitle.setText(movie.getTitle());
         tvOverview.setText(movie.getOverview());
