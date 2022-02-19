@@ -25,7 +25,9 @@
 
 ### Notes
 
-Minutes before the submission deadline I had many errors in my code that I had to fix. I was giving up, but after looking at the logcat one last time I found my mistake, forgot to extend YoutubeBaseActivity. Submitted the assignment at 11:59 pm, gif could be better.
+Minutes before the submission deadline I had many errors in my code that I had to fix. I was giving up, but after looking at the logcat one last time I found my mistake, forgot to extend YoutubeBaseActivity. Submitted the assignment at 11:59 pm, gif could be better. 
+Edit: Stars wasn't rendering correctly, fix that up and improved the gif, late by a bit, but better late than never :)
+Next time I will start earlier.
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
